@@ -1,3 +1,4 @@
+import pytest
 from src.filters import filter_by_status, search_tasks
 
 TASKS = [
@@ -16,3 +17,6 @@ def test_search_is_case_insensitive():
 
 def test_search_empty_keyword_returns_all():
     assert len(search_tasks(TASKS, "")) == 2
+def test_search_non_string_keyword_raises():
+    with pytest.raises(TypeError):
+        search_tasks(TASKS, 123)

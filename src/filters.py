@@ -3,7 +3,11 @@ def filter_by_status(tasks, done):
 
 
 def search_tasks(tasks, keyword):
-    if not keyword or not keyword.strip():
+    if keyword is None:
+        return list(tasks)
+    if not isinstance(keyword, str):
+        raise TypeError("keyword must be a string")
+    if not keyword.strip():
         return list(tasks)
     k = keyword.strip().lower()
     return [t for t in tasks if k in t["title"].lower()]
