@@ -9,7 +9,7 @@ Project status: Development in progress.
 
 | Member | GitHub Username | Assigned Feature |
 |--------|-----------------|------------------|
-| <Fatima Ezzahra Ghezala> | fatimaezzahra456 | Task management (add and complete tasks) |
+| Fatima Ezzahra Ghezala | fatimaezzahra456 | Task management (add and complete tasks) |
 | <Member B name> | <B username> | Filter and search |
 | <Member C name> | <C username> | Statistics (progress percentage) |
 
