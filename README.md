@@ -11,7 +11,7 @@ Project status: Development in progress.
 |--------|-----------------|------------------|
 | Fatima Ezzahra Ghezala | fatimaezzahra456 | Task management (add and complete tasks) |
 | Hafsa El Mahfoudy  | Hafsa-mhf | Filter and search |
-| Chaimae Tahir | <C username> | Statistics (progress percentage) |
+| Chaimae Tahir | chaimaetahir  | Statistics (progress percentage) |
 
 ## How to run the tests
 
