@@ -3,7 +3,7 @@
 
 Theme: To-Do List
 
-Project status: Development in progress.
+Project status: Core features implemented.
 
 ## Group Members
 
