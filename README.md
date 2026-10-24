@@ -3,7 +3,7 @@
 
 Theme: To-Do List
 
-Project status: Testing and automation in progress.
+Project status: Core features implemented; testing and automation in progress.
 
 ## Group Members
 
