@@ -20,4 +20,4 @@ Project status: Core features implemented; testing and automation in progress.
 
 ## GitHub Pages
 
-Live site: (to be added)
+Live site: https://fatimaezzahra456.github.io/To-do-list-project/
